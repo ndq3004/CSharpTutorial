@@ -1,0 +1,9 @@
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+D:\CSharp\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\CSharp\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\CSharp\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\CSharp\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
