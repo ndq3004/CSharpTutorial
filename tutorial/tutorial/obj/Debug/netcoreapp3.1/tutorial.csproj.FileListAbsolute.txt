@@ -11,3 +11,16 @@ D:\CSharp\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.csproj.CoreCompileI
 D:\CSharp\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.dll
 D:\CSharp\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.pdb
 D:\CSharp\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.genruntimeconfig.cache
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.exe
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.deps.json
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.runtimeconfig.json
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.runtimeconfig.dev.json
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.dll
+H:\GIT\CSharpTutorial\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial.pdb
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.csprojAssemblyReference.cache
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.AssemblyInfoInputs.cache
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.AssemblyInfo.cs
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.csproj.CoreCompileInputs.cache
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.dll
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.pdb
+H:\GIT\CSharpTutorial\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial.genruntimeconfig.cache

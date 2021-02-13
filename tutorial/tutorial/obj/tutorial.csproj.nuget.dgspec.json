@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\tutorial\\tutorial\\tutorial.csproj": {}
+    "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\tutorial.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\tutorial\\tutorial\\tutorial.csproj": {
+    "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\tutorial\\tutorial\\tutorial.csproj",
+        "projectUniqueName": "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\tutorial.csproj",
         "projectName": "tutorial",
-        "projectPath": "D:\\CSharp\\tutorial\\tutorial\\tutorial.csproj",
-        "packagesPath": "C:\\Users\\Dinh Quan\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\tutorial\\tutorial\\obj\\",
+        "projectPath": "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\tutorial.csproj",
+        "packagesPath": "C:\\Users\\mylaptop\\.nuget\\packages\\",
+        "outputPath": "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dinh Quan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mylaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
