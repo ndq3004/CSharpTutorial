@@ -15,4 +15,8 @@ namespace tutorial.GenericDataStore
         public TValue Value { get; set; }
     }
 
+    class UseBaseClass<T> where T : BaseClass
+    {
+        public int key;
+    }
 }
