@@ -1,7 +1,12 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using tutorial.GenericDataStore;
+using tutorial.IService;
+using tutorial.Service;
 
 namespace tutorial
 {
@@ -126,6 +131,8 @@ namespace tutorial
             Console.WriteLine("Start wait Task run by StartNew");
             t.Wait(1000);
 
+            TestCollection();
+
 
             Console.WriteLine("Run outer Task");
             Console.ReadKey();
@@ -158,6 +165,38 @@ namespace tutorial
         private static void Bl_ProcessCompleted()
         {
             Console.WriteLine("Process Completed 1!");
+        }
+
+        private static void TestCollection()
+        {
+
+            Console.WriteLine("Start to testing with generic collection");
+            SortedList<string, string> sortedListString = new SortedList<string, string>()
+            {
+                {"hello", "hi" },
+                {"hello1", "hi1" },
+                {"hello2", "hi2" }
+            };
+
+            Console.WriteLine(sortedListString.GetValueOrDefault("hello"));
+
+            //Concurrent
+            ISysLogin sys = new LoginSystem();
+            int i = 0;
+
+            ConcurrentBag<bool> results = new ConcurrentBag<bool>();
+            ParallelLoopResult loopPar = Parallel.For(0, 100000, (j) => {
+                results.Add(sys.Register("Username" + i, "Password"));
+                i++;
+            });
+
+            while (!loopPar.IsCompleted)
+            {
+
+            }
+            Console.WriteLine("Number of Success process: {0}", results.Count(a => a));
+            Console.WriteLine("Number of failed process: {0}", results.Count(a => !a));
+            Console.WriteLine("Number of process: {0}", results.Count);
         }
     }
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LYXDa+Pn8/0WjV7lcnQGqcCKwtnOYnGY/my0jnUVyCxTd5tmp5pAapq+rgv0wQfpcdk80aWdqvPZDwUrKSzeZw==",
+  "dgSpecHash": "hO0yZ6jXJbsjDWyk80ETjjLp19SYGYruGFj/vIr4LrtVWMQAWqiPloUesITzul2lFbs5TSeAlXJHa28TEm4nIQ==",
   "success": true,
   "projectFilePath": "H:\\GIT\\CSharpTutorial\\tutorial\\tutorial\\tutorial.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mylaptop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mylaptop\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mylaptop\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\mylaptop\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
